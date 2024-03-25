@@ -11,7 +11,7 @@ public class ex7 {
         }
 
 
-
+        scanner.close();
     }
 
     

@@ -10,7 +10,7 @@ public class ex8 {
             System.out.println("menor que 50");
         }
         
-
+        scanner.close();
     }
     
 
